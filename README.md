@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Chirag, a school-boy Coder
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Chirag
+- 👀 I’m interested in programming
 - 🌱 I’m expert in Python
+- 🪄 I am a full stack dev as well.
 - 💞️ I’m looking to collaborate on a big Open-Source Project
 - 📫 How to reach me JUST MAIL ME ON - chiragofficial2007@gmail.com
 
